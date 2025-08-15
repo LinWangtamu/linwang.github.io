@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wang Lin (王琳)"
-description              : "Focusing on video and speech large generation model."
+description              : "Focusing on wireless network and reinforcement learning."
 repository               : "linwangtamu/linwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
-  avatar           : "images/ry_profile.jpeg"
+  name             : "Wang Lin (王琳)"
+  avatar           : "images/profile_lin.png"
   bio              : ""
-  location         : "Singapore"
+  location         : "USA TX"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3cMlWF0AAAAJ&hl=en"
+  email            : "linwang0420@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "LinWangtamu"
   google_plus      :
   keybase          :
   instagram        :
