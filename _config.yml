@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Wang Lin (王琳)"
   avatar           : "images/profile_lin.png"
-  bio              : ""
-  location         : "USA TX"
+  bio              : "PhD student at Texas A&M University, focusing on wireless networks and reinforcement learning"
+  location         : "College Station, TX, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3cMlWF0AAAAJ&hl=en"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : "lin-wang-a4a5a9279"
   dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
@@ -135,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
