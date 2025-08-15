@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wang Lin (王琳)"
-description              : "Focusing on wireless network and reinforcement learning."
+# description              : "Focusing on wireless network and reinforcement learning."
 repository               : "linwangtamu/linwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -44,11 +44,11 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "lin-wang-a4a5a9279"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  # dblp             : "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0009-0003-4798-9397"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : 
