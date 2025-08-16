@@ -1,7 +1,8 @@
 
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Nankai University, Tianjin.
-- *2015.09 - 2019.06*, Undergraduate, Nankai University, Tianjin.
+- *2024.08 - Now*, Phd, Texas A&M University, College Station, USA
+- *2021.08 - 2024.06*, Master, Nankai University, Tianjin, China
+- *2017.08 - 2021.06*, Undergraduate, Nankai University, Tianjin, China
 
 # 💬 Invited Talks
 
