@@ -1,22 +1,16 @@
-# main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
-
+    url: "/linwang.github.io/#about-me"
   - title: "News"
-    url: "/#-news"
-
+    url: "/linwang.github.io/#news"
   - title: "Publications"
-    url: "/#-publications"
-
+    url: "/linwang.github.io/#publications"
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+    url: "/linwang.github.io/#honors-and-awards"
   - title: "Educations"
-    url: "/#-educations"
-
+    url: "/linwang.github.io/#educations"
   - title: "Invited Talks"
-    url: "/#-invited-talks"
-
+    url: "/linwang.github.io/#invited-talks"
   - title: "Internships"
-    url: "/#-internships"
+    url: "/linwang.github.io/#internships"
+
