@@ -1,7 +1,7 @@
 
 # 📖 Education
 
-- 🎓 **Ph.D.** &nbsp;&nbsp;&nbsp;&nbsp;*2024.08 – Present*  Texas A&M University, College Station, USA  
+- 🎓 **Ph.D.** &nbsp;&nbsp;&nbsp;&nbsp;*2024.08 – Present*  Texas A&#38;M University, College Station, USA  
 
 - 🎓 **M.Sc.** &nbsp;&nbsp;&nbsp;&nbsp;*2021.08 – 2024.06*  Nankai University, Tianjin, China  
 
