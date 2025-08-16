@@ -4,7 +4,7 @@
 
 - **Jul 2025** ✅  I successfully passed my **Ph.D. Qualifying Exam**.  Many thanks to my committee members and my advisor for their support!
 
-- **Aug 2024** 🎓  Joined **Texas A&M University** as a **Ph.D. student** in Computer Engineering.  
+- **Aug 2024** 🎓  Joined **Texas A＆M University** as a **Ph.D. student** in Computer Engineering.  
 
 - **Jun 2024** 🎓  Completed my **M.Sc. degree** at **Nankai University**, Tianjin, China.  
 
