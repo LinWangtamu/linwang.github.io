@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Wang Lin (王琳)"
 # description              : "Focusing on wireless network and reinforcement learning."
+url: "https://linwangtamu.github.io"
+baseurl: ""   
 repository               : "linwangtamu/linwang.github.io"
 google_scholar_stats_use_cdn : true
 
