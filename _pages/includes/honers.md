@@ -1,2 +1,2 @@
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship (Graduate)
+- *2024.03* National Scholarship (Graduate)
