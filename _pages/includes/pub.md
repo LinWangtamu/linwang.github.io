@@ -6,4 +6,4 @@
 
 - **2025.08**:  
   *"Understanding the Fundamental Trade-Off Between Age of Information and Throughput in Unreliable Wireless Networks"*  
-  Accepted by **MobiHoc 2025** (acceptance rate: 23.5%).  
+  Accepted by **MobiHoc 2025** (acceptance rate: 23%).  
